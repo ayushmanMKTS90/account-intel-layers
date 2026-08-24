@@ -5,13 +5,13 @@ async function llm(systemPrompt, userContent, options = {}) {
   if (!LLM_KEY) throw new Error('OLLAMA_API_KEY not configured');
   const url = LLM_BASE + '/chat';
   const body = JSON.stringify({
-    model: options.model || 'gemma3:4b',
+    model: options.model || 'gemma4:31b',
     messages: [
       { role: 'system', content: systemPrompt },
       { role: 'user', content: userContent }
     ],
     stream: false,
-    options: { num_predict: options.maxTokens || 1000, temperature: options.temperature || 0.2 }
+    options: { num_predict: options.maxTokens || 3000, temperature: options.temperature || 0.2 }
   });
   const res = await fetch(url, {
     method: 'POST',
