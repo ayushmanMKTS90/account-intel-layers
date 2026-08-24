@@ -1,0 +1,1130 @@
+{
+  "company": "Chargebee",
+  "industry": "Finance",
+  "product": "Browser",
+  "role": "VP of Sales",
+  "seniority": "VP/Director",
+  "domain": "chargebee.com",
+  "signals": [
+    "Recent funding round (Series A/B/C)",
+    "Hiring surge in sales/finance roles",
+    "Digital transformation initiative announced",
+    "Merger or acquisition activity",
+    "Cost reduction / restructuring program",
+    "New compliance or regulatory pressure",
+    "Security audit or incident",
+    "AI / automation adoption push"
+  ],
+  "painPoint": "Cost",
+  "salesPlay": "secure-enterprise-browsing",
+  "salesPlayName": "Secure Enterprise Browsing",
+  "generated_at": "2026-08-24T10:44:49.049Z",
+  "layer1_account_signals": {
+    "summary": "Chargebee's growth and digital transformation push create a need for frictionless, secure access for an expanding, distributed workforce.",
+    "pressure": "Operational friction from scaling access for contractors and BYOD users during transformation.",
+    "validation_questions": [
+      "How is the current onboarding process for contractors and vendors impacting your speed to market?",
+      "To what extent are VPN latency and device management overhead hindering your digital transformation goals?",
+      "How are you currently securing access for unmanaged endpoints without compromising user experience?"
+    ],
+    "signal_confidence": "medium",
+    "inferred_signals": [
+      "hiring_growth",
+      "digital_transformation",
+      "expansion"
+    ]
+  },
+  "layer2_industry_pulse": {
+    "headline": "Finance firms are shifting toward decentralized workforces, increasing reliance on third-party contractors and BYOD.",
+    "talk_tracks": [
+      {
+        "trend": "Rise in contingent labor",
+        "implication": "Slow hardware onboarding delays productivity",
+        "opportunity": "Instant secure browser-based access"
+      },
+      {
+        "trend": "VPN performance degradation",
+        "implication": "High latency creates operational friction",
+        "opportunity": "Decouple access from network hardware"
+      },
+      {
+        "trend": "Expanding digital perimeters",
+        "implication": "Unmanaged endpoints increase security gaps",
+        "opportunity": "Shift enforcement to the browser"
+      }
+    ],
+    "vertical_shift": "Moving from hardware-centric perimeter security to identity-centric, session-based access for operational agility.",
+    "recent_developments": []
+  },
+  "layer3_prospect_intel": {
+    "concerns": [
+      "High operational overhead slowing down sales team onboarding",
+      "Cost of shipping and managing hardware for temporary contractors",
+      "Revenue loss due to access friction and system latency"
+    ],
+    "priorities": [
+      "Reducing customer acquisition costs",
+      "Accelerating time-to-productivity for new hires",
+      "Maximizing sales team operational efficiency"
+    ],
+    "influence_level": "influencer",
+    "likely_questions": [
+      "How much will this reduce my team's onboarding time?",
+      "Will this eliminate the need for expensive hardware shipments?",
+      "Does this improve the user experience for my remote sellers?"
+    ],
+    "success_metric": "Reduced cost per head for onboarding and increased sales velocity.",
+    "tailored_message": "Stop letting hardware logistics and VPN friction slow your revenue growth; secure your extended workforce instantly and reduce operational costs."
+  },
+  "layer4_tech_context": {
+    "detected_tech": [
+      "AOLserver",
+      "Acquia Cloud Platform CDN",
+      "Akka HTTP",
+      "Amazon CloudFront",
+      "Amazon S3",
+      "Amazon Web Services",
+      "Angie",
+      "Apache HTTP Server",
+      "Apache Traffic Server",
+      "Artifactory Web Server",
+      "Cart Functionality",
+      "Cherokee",
+      "CherryPy",
+      "CouchDB",
+      "cPanel",
+      "Dancer",
+      "DirectAdmin",
+      "ELOG HTTP",
+      "EmbedThis Appweb",
+      "Erlang"
+    ],
+    "categorized_tech": {
+      "email": [],
+      "cloud": [
+        "Amazon Web Services"
+      ],
+      "devices": [
+        "Windows Server"
+      ],
+      "analytics": [],
+      "marketing": [],
+      "security": [],
+      "crm": [],
+      "other": [
+        "AOLserver",
+        "Acquia Cloud Platform CDN",
+        "Akka HTTP",
+        "Amazon CloudFront",
+        "Amazon S3",
+        "Angie",
+        "Apache HTTP Server",
+        "Apache Traffic Server",
+        "Artifactory Web Server",
+        "Cart Functionality",
+        "Cherokee",
+        "CherryPy",
+        "CouchDB",
+        "cPanel",
+        "Dancer",
+        "DirectAdmin",
+        "ELOG HTTP",
+        "EmbedThis Appweb",
+        "Erlang",
+        "Flask",
+        "FreeBSD",
+        "GlassFish",
+        "gunicorn",
+        "H2O",
+        "HP Compact Server",
+        "HP iLO",
+        "HSTS",
+        "HTTP/3",
+        "Hiawatha",
+        "IBM HTTP Server",
+        "IIS",
+        "Imunify360",
+        "Indy",
+        "Intel Active Management Technology",
+        "Jetty",
+        "Kong",
+        "libwww-perl-daemon",
+        "lighttpd",
+        "Microsoft HTTPAPI",
+        "MiniServ",
+        "MochiWeb",
+        "Monkey HTTP Server",
+        "mini_httpd",
+        "mod_auth_pam",
+        "mod_dav",
+        "mod_fastcgi",
+        "mod_jk",
+        "mod_perl",
+        "mod_python",
+        "Acquia Cloud Platform",
+        "Perl",
+        "C",
+        "Artifactory",
+        "PHP",
+        "ELOG",
+        "Python",
+        "Java",
+        "HTTP/2",
+        "Webmin",
+        "Apache Tomcat"
+      ]
+    },
+    "email_hosting": "Unknown",
+    "cloud_provider": "Amazon Web Services",
+    "devices": "Windows Server",
+    "primary_competitor": "Microsoft",
+    "confidence": "medium",
+    "raw_detected": [
+      {
+        "name": "AOLserver",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Acquia Cloud Platform CDN",
+        "description": "",
+        "categories": [
+          "CDN"
+        ],
+        "categoryIds": [
+          31
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Akka HTTP",
+        "description": "",
+        "categories": [
+          "Web frameworks",
+          "Web servers"
+        ],
+        "categoryIds": [
+          18,
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Amazon CloudFront",
+        "description": "Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds.",
+        "categories": [
+          "CDN"
+        ],
+        "categoryIds": [
+          31
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Amazon S3",
+        "description": "Amazon S3 or Amazon Simple Storage Service is a service offered by Amazon Web Services (AWS) that provides object storage through a web service interface.",
+        "categories": [
+          "CDN"
+        ],
+        "categoryIds": [
+          31
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Amazon Web Services",
+        "description": "Amazon Web Services (AWS) is a comprehensive cloud services platform offering compute power, database storage, content delivery and other functionality.",
+        "categories": [
+          "PaaS"
+        ],
+        "categoryIds": [
+          62
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Angie",
+        "description": "Angie is a drop-in replacement for the Nginx web server aiming to extend the functionality of the original version.",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Apache HTTP Server",
+        "description": "Apache is a free and open-source cross-platform web server software.",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Apache Traffic Server",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Artifactory Web Server",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Cart Functionality",
+        "description": "Websites that have a shopping cart or checkout page, either using a known ecommerce platform or a custom solution.",
+        "categories": [
+          "Ecommerce"
+        ],
+        "categoryIds": [
+          6
+        ],
+        "matchedBy": [
+          "dom"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Cherokee",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "CherryPy",
+        "description": "CherryPy is an object-oriented web application framework using the Python programming language.",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "CouchDB",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "cPanel",
+        "description": "cPanel is a web hosting control panel. The software provides a graphical interface and automation tools designed to simplify the process of hosting a website.",
+        "categories": [
+          "Hosting panels"
+        ],
+        "categoryIds": [
+          9
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Dancer",
+        "description": "Mono.net delivers the a Software-as-a-Service (SaaS) platform to build and sell websites and other digital products.",
+        "categories": [
+          "Web frameworks"
+        ],
+        "categoryIds": [
+          18
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "DirectAdmin",
+        "description": "DirectAdmin is a graphical web-based web hosting control panel designed to make administration of websites easier.",
+        "categories": [
+          "Hosting panels"
+        ],
+        "categoryIds": [
+          9
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "ELOG HTTP",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "EmbedThis Appweb",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Erlang",
+        "description": "Erlang is a general-purpose, concurrent, functional programming language, and a garbage-collected runtime system.",
+        "categories": [
+          "Programming languages"
+        ],
+        "categoryIds": [
+          27
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Flask",
+        "description": "",
+        "categories": [
+          "Web frameworks",
+          "Web servers"
+        ],
+        "categoryIds": [
+          18,
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "FreeBSD",
+        "description": "FreeBSD is a free and open-source Unix-like operating system.",
+        "categories": [
+          "Operating systems"
+        ],
+        "categoryIds": [
+          28
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "GlassFish",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "gunicorn",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "H2O",
+        "description": "H2O is a fast and secure HTTP/2 server written in C by Kazuho Oku.",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "HP Compact Server",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "HP iLO",
+        "description": "HP iLO is a tool that provides multiple ways to configure, update, monitor, and run servers remotely.",
+        "categories": [
+          "Remote access"
+        ],
+        "categoryIds": [
+          22,
+          46
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "HSTS",
+        "description": "HTTP Strict Transport Security (HSTS) informs browsers that the site should only be accessed using HTTPS.",
+        "categories": [
+          "Security"
+        ],
+        "categoryIds": [
+          16
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "HTTP/3",
+        "description": "HTTP/3 is the third major version of the Hypertext Transfer Protocol used to exchange information on the World Wide Web.",
+        "categories": [
+          "Miscellaneous"
+        ],
+        "categoryIds": [
+          19
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Hiawatha",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "IBM HTTP Server",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "IIS",
+        "description": "Internet Information Services (IIS) is an extensible web server software created by Microsoft for use with the Windows NT family.",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Imunify360",
+        "description": "Imunify360 is a comprehensive security platform for Linux web servers which utilises machine learning technology and other advanced techniques to provide protection against various types of cyber threats, such as malware, viruses, and other attacks.",
+        "categories": [
+          "Security"
+        ],
+        "categoryIds": [
+          16
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Indy",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Intel Active Management Technology",
+        "description": "Intel Active Management Technology (AMT) is a proprietary remote management and control system for personal computers with Intel CPUs.",
+        "categories": [
+          "Remote access"
+        ],
+        "categoryIds": [
+          22,
+          46
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Jetty",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Kong",
+        "description": "Kong is an open-source API gateway and platform that acts as middleware between compute clients and the API-centric applications.",
+        "categories": [
+          "Reverse proxies"
+        ],
+        "categoryIds": [
+          64
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "libwww-perl-daemon",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "lighttpd",
+        "description": "Lighttpd is an open-source web server optimised for speed-critical environment.",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Microsoft HTTPAPI",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "MiniServ",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "MochiWeb",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Monkey HTTP Server",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "mini_httpd",
+        "description": "",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "mod_auth_pam",
+        "description": "Mod_auth_pam is used to configure ways for authenticating users.",
+        "categories": [
+          "Web server extensions"
+        ],
+        "categoryIds": [
+          33
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "mod_dav",
+        "description": "Mod_dav is an Apache module to provide WebDAV capabilities for your Apache web server. It is an open-source module, provided under an Apache-style license.",
+        "categories": [
+          "Web server extensions"
+        ],
+        "categoryIds": [
+          33
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "mod_fastcgi",
+        "description": "Mod_fcgid is a high performance alternative to mod_cgi or mod_cgid, which starts a sufficient number instances of the CGI program to handle concurrent requests, and these programs remain running to handle further incoming requests.",
+        "categories": [
+          "Web server extensions"
+        ],
+        "categoryIds": [
+          33
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "mod_jk",
+        "description": "Mod_jk is an Apache module used to connect the Tomcat servlet container with web servers such as Apache, iPlanet, Sun ONE (formerly Netscape) and even IIS using the Apache JServ Protocol. A web server waits for client HTTP requests.",
+        "categories": [
+          "Web server extensions"
+        ],
+        "categoryIds": [
+          33
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "mod_perl",
+        "description": "Mod_perl is an optional module for the Apache HTTP server. It embeds a Perl interpreter into the Apache server. In addition to allowing Apache modules to be written in the Perl programming language, it allows the Apache web server to be dynamically configured by Perl programs.",
+        "categories": [
+          "Web server extensions"
+        ],
+        "categoryIds": [
+          33
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "mod_python",
+        "description": "Mod_python is an Apache HTTP Server module that integrates the Python programming language with the server. It is intended to provide a Python language binding for the Apache HTTP Server. ",
+        "categories": [
+          "Web server extensions"
+        ],
+        "categoryIds": [
+          33
+        ],
+        "matchedBy": [
+          "headers"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Acquia Cloud Platform",
+        "description": "Acquia Cloud Platform is a Drupal-tuned application lifecycle management suite with an infrastructure to support Drupal deployment workflow processes.",
+        "categories": [
+          "PaaS"
+        ],
+        "categoryIds": [
+          62
+        ],
+        "matchedBy": [
+          "implied:Acquia Cloud Platform CDN"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Perl",
+        "description": "Perl is a family of two high-level, general-purpose, interpreted, dynamic programming languages.",
+        "categories": [
+          "Programming languages"
+        ],
+        "categoryIds": [
+          27
+        ],
+        "matchedBy": [
+          "implied:Angie"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "C",
+        "description": "C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system.",
+        "categories": [
+          "Programming languages"
+        ],
+        "categoryIds": [
+          27
+        ],
+        "matchedBy": [
+          "implied:Angie"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Artifactory",
+        "description": "",
+        "categories": [
+          "Development"
+        ],
+        "categoryIds": [
+          47
+        ],
+        "matchedBy": [
+          "implied:Artifactory Web Server"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "PHP",
+        "description": "PHP is a general-purpose scripting language used for web development.",
+        "categories": [
+          "Programming languages"
+        ],
+        "categoryIds": [
+          27
+        ],
+        "matchedBy": [
+          "implied:DirectAdmin"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "ELOG",
+        "description": "",
+        "categories": [
+          "Miscellaneous"
+        ],
+        "categoryIds": [
+          19
+        ],
+        "matchedBy": [
+          "implied:ELOG HTTP"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Python",
+        "description": "Python is an interpreted and general-purpose programming language.",
+        "categories": [
+          "Programming languages"
+        ],
+        "categoryIds": [
+          27
+        ],
+        "matchedBy": [
+          "implied:Flask"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Java",
+        "description": "Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+        "categories": [
+          "Programming languages"
+        ],
+        "categoryIds": [
+          27
+        ],
+        "matchedBy": [
+          "implied:GlassFish"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "HTTP/2",
+        "description": "HTTP/2 (originally named HTTP/2.0) is a major revision of the HTTP network protocol used by the World Wide Web.",
+        "categories": [
+          "Miscellaneous"
+        ],
+        "categoryIds": [
+          19
+        ],
+        "matchedBy": [
+          "implied:H2O"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Windows Server",
+        "description": "Windows Server is a brand name for a group of server operating systems.",
+        "categories": [
+          "Operating systems"
+        ],
+        "categoryIds": [
+          28
+        ],
+        "matchedBy": [
+          "implied:IIS"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Webmin",
+        "description": "Webmin is a free, open-source application for Linux server administration.",
+        "categories": [
+          "Miscellaneous"
+        ],
+        "categoryIds": [
+          19
+        ],
+        "matchedBy": [
+          "implied:MiniServ"
+        ],
+        "matchedByCount": 1
+      },
+      {
+        "name": "Apache Tomcat",
+        "description": "Apache Tomcat is an open-source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and WebSocket technologies.",
+        "categories": [
+          "Web servers"
+        ],
+        "categoryIds": [
+          22
+        ],
+        "matchedBy": [
+          "implied:mod_jk"
+        ],
+        "matchedByCount": 1
+      }
+    ],
+    "source": "technology-detector"
+  },
+  "layer5_competitive_context": {
+    "reframe_headline": "Stop managing hardware perimeters and start securing the session where work actually happens.",
+    "incumbent_strength": "Deep ecosystem integration and ubiquitous enterprise presence across the M365 suite.",
+    "incumbent_weakness": "Rigid licensing and heavy agent requirements create friction for unmanaged BYOD users.",
+    "our_lever": "Decoupling security from hardware to enable instant, agentless contractor onboarding.",
+    "proof_points": [
+      "43% lower TCO over 3 years compared to legacy Microsoft solutions.",
+      "70% faster deployment for extended workforce access vs comparable Microsoft tools.",
+      "Higher G2 user satisfaction for core secure browsing use cases."
+    ],
+    "objection_handling": [
+      {
+        "if_they_say": "We are already all-in on Microsoft.",
+        "respond_with": "Does that ecosystem solve for unmanaged BYOD without shipping hardware?"
+      },
+      {
+        "if_they_say": "Microsoft has this built in.",
+        "respond_with": "Built-in often means generic; we provide specialized, frictionless session-level control."
+      }
+    ],
+    "comparison_prompts": [
+      "How does the current setup handle non-employee onboarding speed?",
+      "What is the operational cost of managing VPNs for contractors?",
+      "Where does the current tool fail for unmanaged device access?"
+    ],
+    "avoid_phrases": [
+      "Replace Microsoft",
+      "Better than Edge"
+    ],
+    "positioning_style": "complement"
+  },
+  "layer6_product_orchestration": {
+    "lead_path": "app_delivery",
+    "fallback_path": "browser_governance",
+    "entry_trigger": "Hiring surge and digital transformation causing onboarding friction for contractors/BYOD users.",
+    "value_to_metric": "Reduce time-to-productivity for new hires and contractors by eliminating VPN/hardware shipping delays.",
+    "sequence": [
+      "Validate friction in onboarding distributed workforce and BYOD users.",
+      "Contrast hardware-dependent access vs. browser-based secure session delivery.",
+      "Propose pilot to accelerate contractor access without extending network trust."
+    ]
+  },
+  "layer7_discovery_support": {
+    "validation_prompts": [
+      "Is the time spent shipping and managing hardware for contractors slowing your onboarding?",
+      "How much revenue is lost when sales teams face access friction or system latency?",
+      "Are VPNs and device-level controls creating operational bottlenecks for your distributed workforce?",
+      "Does managing access exceptions for BYOD users consume too much of your IT team's time?"
+    ],
+    "listen_for_cues": [
+      "Mention of 'onboarding delays' or 'shipping laptops'",
+      "Complaints about 'VPN latency' or 'connection drops'",
+      "Frustration with 'unmanaged device' security gaps"
+    ],
+    "pivot_paths": [
+      {
+        "if_they_say": "We rely on Microsoft for everything",
+        "then_pivot_to": "Focus on securing the session, not just the identity."
+      },
+      {
+        "if_they_say": "Security requires managed hardware",
+        "then_pivot_to": "Discuss decoupling access from hardware to enable agility."
+      }
+    ],
+    "dont_say": [
+      "We are a VPN replacement",
+      "You need to replace your laptops"
+    ],
+    "success_criteria": "Buyer acknowledges that hardware-centric access is hindering growth and agrees to explore session-based security."
+  }
+}
