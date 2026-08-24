@@ -5,7 +5,7 @@ async function llm(systemPrompt, userContent, options = {}) {
   if (!LLM_KEY) throw new Error('OLLAMA_API_KEY not configured');
   const url = LLM_BASE + '/chat';
   const body = JSON.stringify({
-    model: options.model || 'gpt-oss:20b',
+    model: options.model || 'gemma3:4b',
     messages: [
       { role: 'system', content: systemPrompt },
       { role: 'user', content: userContent }
